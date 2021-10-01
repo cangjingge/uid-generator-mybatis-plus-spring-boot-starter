@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1ebd0cf-2a5d-4d9f-acb2-fc08cabd1060" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yspcrjFk410k6VYrHy2IOi1on9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chungkui.uid.mapper" />
+      <recent name="com.chungkui.uid.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1ebd0cf-2a5d-4d9f-acb2-fc08cabd1060" name="Default Changelist" comment="" />
+      <created>1633050232739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633050232739</updated>
+      <workItem from="1633050238472" duration="4631000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1633051122536">
+      <screen x="0" y="25" width="1440" height="840" />
+    </state>
+    <state x="533" y="133" key="#com.intellij.ide.util.MemberChooser/0.25.1440.840/-1010.-1415.2560.1415@0.25.1440.840" timestamp="1633051122536" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1633054876084">
+      <screen x="0" y="25" width="1440" height="840" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.25.1440.840/-1010.-1415.2560.1415@0.25.1440.840" timestamp="1633054876084" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.25.1440.875/-1010.-1415.2560.1380@0.25.1440.875" timestamp="1633054591795" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1633054876083">
+      <screen x="0" y="25" width="1440" height="840" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.25.1440.840/-1010.-1415.2560.1415@0.25.1440.840" timestamp="1633054876083" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.25.1440.875/-1010.-1415.2560.1380@0.25.1440.875" timestamp="1633054591794" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1633054876082">
+      <screen x="0" y="25" width="1440" height="840" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.25.1440.840/-1010.-1415.2560.1415@0.25.1440.840" timestamp="1633054876082" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.25.1440.875/-1010.-1415.2560.1380@0.25.1440.875" timestamp="1633054591793" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1633054876084">
+      <screen x="0" y="25" width="1440" height="840" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.25.1440.840/-1010.-1415.2560.1415@0.25.1440.840" timestamp="1633054876084" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.25.1440.875/-1010.-1415.2560.1380@0.25.1440.875" timestamp="1633054591794" />
+    <state x="385" y="189" key="search.everywhere.popup" timestamp="1633051861706">
+      <screen x="0" y="25" width="1440" height="840" />
+    </state>
+    <state x="385" y="189" key="search.everywhere.popup/0.25.1440.840/-1010.-1415.2560.1415@0.25.1440.840" timestamp="1633051861706" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/chungkui/uid-generator-spring-boot-starter/1.2-bate/uid-generator-spring-boot-starter-1.2-bate.jar!/com/chungkui/uid/UidConfiguration.class</url>
+          <line>50</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
