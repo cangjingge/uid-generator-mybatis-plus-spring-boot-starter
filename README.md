@@ -1,3 +1,8 @@
+超简单使用百度uid生成器;
+如果你的项目生态中使用的是mybatis-plus纯配置即可引入到项目中；
+如果项目中使用的是其他数据库框架那么请使用
+https://gitee.com/cangjingge/uid-generator-spring-boot-starter
+自行实现一个接口即可完成集成
 ### 1.引入jar包
 
       
@@ -16,7 +21,7 @@
 
 ### 3.数据库中创建表
 
- 
+```
 DROP DATABASE IF EXISTS `xxxx`;
 CREATE DATABASE `xxxx` ;
 use `xxxx`;
@@ -42,7 +47,7 @@ PRIMARY KEY(ID)
      
 ```
   @Autowired
-       UidGenerator uidGenerator;
+  UidGenerator uidGenerator;
        
-       uidGenerator.getUID()
+  uidGenerator.getUID()
 ```
