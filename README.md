@@ -1,7 +1,7 @@
 超简单使用百度uid生成器;
 如果你的项目生态中使用的是mybatis-plus纯配置即可引入到项目中；
 如果项目中使用的是其他数据库框架那么请使用
-https://gitee.com/cangjingge/uid-generator-spring-boot-starter
+https://github.com/cangjingge/cangjingge/uid-generator-spring-boot-starter
 自行实现一个接口即可完成集成
 ### 1.引入jar包
 
